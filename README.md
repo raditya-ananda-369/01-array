@@ -97,8 +97,7 @@ print("7. Grafik kelulusan -> O(1) : datanya selalu 2 (lulus & tidak lulus)")
 ```
 
 **Kesimpulan:**
-Semua operasi utama di program ini berjalan secara **linear — O(n)**. Artinya kalau datanya 10, ya 10 langkah. Kalau 100, ya 100 langkah. Tidak ada yang O(n²) atau lebih berat, jadi program ini sudah cukup efisien untuk kasus seperti ini.
-
+Semua operasi utama di program ini berjalan secara **linear — O(n)**. Artinya kalau datanya 10, ya 10 langkah. Kalau 100, ya 100 langkah. Tidak ada yang O(n²) atau lebih berat.
 ---
 
 ## Struktur File
